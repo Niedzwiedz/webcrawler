@@ -3,7 +3,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'fileutils'
 
-PAGE_URL = "http://ruby.bastardsbook.com/files/hello-webpage.html"
+#check
 list=[]
 
 puts "What page to start?"
